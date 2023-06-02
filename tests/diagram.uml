@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-41.0" y="53.5">Main</node>
+    <node x="-84.5" y="-15.0">SolvingInequalities</node>
+    <node x="-81.0" y="129.0">DivisorOvershoot</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0000000000000002" showDependencies="false" x="179.74999999999991" y="142.515625" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
